@@ -1,11 +1,42 @@
-### Yoo, I'm Hcervan 👋🥰🥰🥰
-<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+
+### Greetings! I'm Hcervan 👋🥰🥰🥰
 
 
-<span>[![GitHub Streak](https://streak-stats.demolab.com?user=Hcervan&theme=javascript-dark&hide_border=&border_radius=30&locale=zh_Hans&mode=weekly)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hcervan&show_icons=true&theme=radical)</span>
+<a href="##">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hcervan&show_icons=true&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="GitHub Stats" align="right"/>
+</a>
 
-- 🍻 Undergraduate students from👨‍🎓 [CUMT](https://www.cumt.edu.cn).
-- ⚡ C++ / Python /JavaScript
-- ✍️ [Blogger](https://hcervan.cc)
-- ♟ Chinese Chess / Chess 
+You could follow or contact me by following social accounts:
 
+[![Github](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DCnily03&labelColor=181717&color=30363D&style=flat-square&logo=github&longCache=true)](https://github.com/Hcervan)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/5638)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Hcervan)
+
+
+
+My websites:
+
+- Blog: [Hcervan.cc](https://Hcervan.cc)
+
+---
+
+
+
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hcervan&bg_color=161B22&color=528BFF&line=4879DC&point=C9D1D9)](##)
+
+## Fields
+
+<a href="##">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hcervan&layout=compact&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" align="right" />
+</a>
+
+Research directions:
+
+- **Embodied intelligence**: AI&Robotic
+- **Artificial Intelligence**: Natural Language Processing,Artificial neural networks
+
+Engineering:
+
+- Autonomous robot design
+- Industrialization of artificial intelligence
+- Web Backend
