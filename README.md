@@ -26,9 +26,7 @@ My websites:
 
 ## Fields
 
-<a href="##">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hcervan&layout=compact&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" align="right" />
-</a>
+![H's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hcervan&layout=compact&hide_border=true&langs_count=30)
 
 Research directions:
 
